@@ -53,8 +53,8 @@ Before running the script, ensure you have the following installed:
 
 1. Clone the repository to your local machine by running:
    ```bash
-   git clone https://github.com/YourUsername/Private-YT-Downloader.git
-   cd Private-YT-Downloader
+   git clone https://github.com/Monster-ZeroX/Private-YouTube-Downloader.git
+   cd Private-YouTube-Downloader
 ## Step 2: Install Dependencies
 ##### 1. Install the required dependencies using ```pip```:
 ```
