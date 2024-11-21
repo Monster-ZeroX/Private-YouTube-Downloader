@@ -24,7 +24,7 @@ A powerful and efficient tool to download private YouTube videos using `yt-dlp`,
 ## **Quick Start**
 
 ### **Option 1: Use the Executable (No Dependencies Needed!)**
-If you want to skip the trouble of installing Python or dependencies, simply download the prebuilt executable file (`video_downloader.exe`) from the [Releases](../../releases) section.
+If you want to skip the trouble of installing Python or dependencies, simply download the prebuilt executable file (`Private YouTube Downloader.exe`) from the [Releases](../../releases) section.
 
 1. Download the `.exe` file.
 2. Place your `cookies.txt` and `video_links.txt` in the same directory as the executable.
