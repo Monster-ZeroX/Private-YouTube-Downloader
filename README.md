@@ -99,3 +99,14 @@ Successfully downloaded: https://www.youtube.com/watch?v=VVEYA2kObV0\
 
 All done!
 ```
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests for improvements and bug fixes. Contributions are welcome!
+
+## Disclaimer
+
+This tool is for educational purposes only. Please ensure you have the necessary permissions to download the videos.
