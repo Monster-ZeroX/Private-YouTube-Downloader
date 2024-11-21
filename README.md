@@ -54,9 +54,9 @@ sudo apt-get install python3-tk
 To authenticate and download private YouTube videos, you need to provide a ```cookies.txt``` file, which stores your browser session information. Here’s how to export it from Google Chrome (instructions are similar for other browsers):
 
 ### For Google Chrome:
-##### 1. Install the EditThisCookie Chrome extension:
+##### 1. Install the Get cookies.txt LOCALLY Chrome extension:
 
-- Go to the Chrome Web Store: [EditThisCookie](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?hl=en) Extension
+- Go to the Chrome Web Store: [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc?hl=en) Extension
 - Click "Add to Chrome" and confirm the installation.
 ##### 2. Export your cookies:
 
