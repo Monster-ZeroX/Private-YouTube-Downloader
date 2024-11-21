@@ -1,25 +1,53 @@
-# Private YouTube Downloader
+# **Private YouTube Downloader**
 
-A Python script to download private YouTube videos using `yt-dlp` with a graphical interface for selecting cookies, video links, and the download location. This tool is useful for downloading videos from private YouTube accounts that you have access to.
+A powerful and efficient tool to download private YouTube videos using `yt-dlp`, complete with file selection dialogs for cookies, video links, and the download location. The script is designed to help users download videos from private YouTube accounts that they have access to, with ease and reliability.
 
-## Features
+---
 
-- Select the `cookies.txt` file for authentication.
-- Input a `video_links.txt` file with the YouTube video URLs.
-- Choose a download location for your videos.
-- Displays a progress bar for each download using `tqdm`.
-- Uses `yt-dlp` for fast and reliable downloads.
+## **Features**
 
-## Requirements
+- **Flexible Authentication**:
+  - Select the `cookies.txt` file for seamless authentication.
+- **Batch Video Downloads**:
+  - Input a `video_links.txt` file containing YouTube video URLs.
+- **Custom Download Location**:
+  - Choose a directory to save your videos.
+- **Progress Visualization**:
+  - Displays a real-time progress bar for each download using `tqdm`.
+- **Reliable Downloads**:
+  - Utilizes `yt-dlp` for fast and dependable video downloads.
+- **Error Handling**:
+  - Automatically retries failed downloads.
 
-Before running the script, make sure you have the following installed:
+---
 
-- Python 3.6+
-- `yt-dlp` (for downloading videos)
-- `tqdm` (for progress bar)
-- `tkinter` (for file dialog GUI)
+## **Quick Start**
 
-## Installation
+### **Option 1: Use the Executable (No Dependencies Needed!)**
+If you want to skip the trouble of installing Python or dependencies, simply download the prebuilt executable file (`video_downloader.exe`) from the [Releases](../../releases) section.
+
+1. Download the `.exe` file.
+2. Place your `cookies.txt` and `video_links.txt` in the same directory as the executable.
+3. Double-click the `.exe` file and follow the prompts to start downloading.
+
+**Antivirus Note**:  
+Some antivirus programs might flag the `.exe` file as suspicious because it bundles Python and dependencies into a single package. If this happens:
+- Whitelist the `.exe` file in your antivirus settings.
+- Alternatively, you can verify the source code in this repository and build the executable yourself.
+
+---
+
+### **Option 2: Use the Python Script**
+If you prefer to run the script directly, follow these steps:
+
+#### **Requirements**
+Before running the script, ensure you have the following installed:
+- Python 3.6+  
+- `yt-dlp`, `tqdm`, and `tkinter` (included in `requirements.txt`)
+
+---
+
+## **Installation**
 
 ## Step 1: Clone the Repository
 
