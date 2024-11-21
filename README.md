@@ -55,7 +55,6 @@ Before running the script, ensure you have the following installed:
    ```bash
    git clone https://github.com/YourUsername/Private-YT-Downloader.git
    cd Private-YT-Downloader
-   pip install -r requirements.txt
 ## Step 2: Install Dependencies
 ##### 1. Install the required dependencies using ```pip```:
 ```
